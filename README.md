@@ -19,7 +19,7 @@ It instantly recommends curated Spotify playlists and uplifting quotes to either
 ---
 
 ## 📹 Demo Video
-[![Watch the demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](YOUR_YOUTUBE_DEMO_LINK_HERE)
+[![Watch the demo](https://youtu.be/Dw9SNJUhfVU)
 
 ---
 
